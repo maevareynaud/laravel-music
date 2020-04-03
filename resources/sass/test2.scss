@@ -1,0 +1,8 @@
+.welcome{
+    p{
+        color: pink;
+    }
+    &:first-child{
+        color: blue;
+    }
+}

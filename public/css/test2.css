@@ -1,0 +1,8 @@
+.welcome p {
+  color: pink;
+}
+
+.welcome:first-child {
+  color: blue;
+}
+
